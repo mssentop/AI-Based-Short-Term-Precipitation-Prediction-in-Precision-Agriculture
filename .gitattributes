@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Dataset.zip filter=lfs diff=lfs merge=lfs -text
 /Users/mssentop/Downloads/Dataset.zip filter=lfs diff=lfs merge=lfs -text
+=======
+/Users/mssentop/Desktop/Research/Agro-Geo/2024/AI-Based\\[[:space:]]Precipitation\\[[:space:]]Prediction\\[[:space:]]in\\[[:space:]]Local-Scale\\[[:space:]]Agriculture/input_dataset.csv filter=lfs diff=lfs merge=lfs -text
+input_dataset.csv filter=lfs diff=lfs merge=lfs -text
+output_dataset.csv filter=lfs diff=lfs merge=lfs -text
+>>>>>>> master
